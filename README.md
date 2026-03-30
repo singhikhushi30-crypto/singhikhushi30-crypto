@@ -1,4 +1,4 @@
-# Hi, I'm Akshara Shah👋
+# Hi, I'm Khushi Singhi👋
 
 - B.Tech Student (CSE Specialization in AI,ML), VIT Bhopal
 - Year: 1st Year
