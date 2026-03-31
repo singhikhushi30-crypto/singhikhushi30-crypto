@@ -41,7 +41,7 @@ I created profiles on GitHub, LinkedIn, and Kaggle. These platforms will help me
 ### Task 3 – Platforms  
 I solved a beginner problem on HackerRank and created a Google Form quiz related to digital literacy.
 
-Google Form Link: https://forms.gle/qiLofgS7GFeB5vGc9
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSd9RGgZ1HIg8dxUQFnTmh7gPM9M9-n9MkjkjOH6TCwPff-HUQ/viewform?usp=publish-editor
 
 ---
 
